@@ -5,5 +5,7 @@
 
 [%{GetProductOrderMaxDuration(this)}%] // Срок поставки из поля "Ожидается"
 
+//TODO Посмотреть откуда реально это берётся
+
 [%{format("{0} {1}. {2}.",this.Customer.LastName, this.Customer.FirstName[0], this.Customer.MiddleName[0])}%]
 // Подставит ФИО клиента в документ в сокращённом формате, например "Алексеев М. А." (без кавычек)

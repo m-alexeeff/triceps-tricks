@@ -17,3 +17,11 @@ Ready-made templates for use
 ## Views
 
 Folder for views-related tips
+
+### expressions
+
+Useful expressions for Triceps views and view settings
+
+### xvfr
+
+Ready-made views for use
