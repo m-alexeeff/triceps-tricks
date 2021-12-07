@@ -25,3 +25,7 @@ Useful expressions for Triceps views and view settings
 ### xvfr
 
 Ready-made views for use
+
+## SQL
+
+SQL Queries
